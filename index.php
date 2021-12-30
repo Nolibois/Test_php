@@ -122,5 +122,7 @@
 
   ?>
 
+  <h2>Nouvel exercice</h2>
+
 </body>
 </html>
